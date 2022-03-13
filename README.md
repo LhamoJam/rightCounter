@@ -1,5 +1,5 @@
 # Golang对数器
-
+左神算法计数器, golang实现
 # 使用
 1. 写的函数继承 rightCounter 的 Testfunc 类型
 2. 将两个比对函数传入
